@@ -1,0 +1,20 @@
+body {
+  padding-top: 70px;
+  text-align: center;
+  background-color: black;
+  color: #f5f264;
+  font-family: 'Playfair Display', serif;
+}
+.thumbnail {
+  height: 325px;
+  background-color: #ff9652;
+}
+p {
+  color: black;
+}
+#tag{
+  color: #f5f264;
+}
+.jumbotron {
+  background-color: #784f34;
+}
